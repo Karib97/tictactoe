@@ -1,5 +1,5 @@
 body {
-  background-color: gainsboro;
+  background-color: rgb(250, 135, 4);
   /* Use a system font, if none are available use an available sans-sarif */
   font-family: system-ui, sans-serif;
   margin: 0;
